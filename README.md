@@ -64,7 +64,7 @@ This project is created for educational purposes as part of the roadmap.sh learn
 ---
 
 **Author:** Ayman Belarbi  
-**Project:** [roadmap.sh - Single-Page CV](https://roadmap.sh/projects/single-page-cv)  
+**Project:** [Single-Page CV](https://roadmap.sh/projects/single-page-cv)  
 **Level:** Beginner
 
 ![CV Template](https://assets.roadmap.sh/guest/resume-template-zyl70.png)
